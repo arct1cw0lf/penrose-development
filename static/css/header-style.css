@@ -1,0 +1,18 @@
+#bootstrap-overrides .navbar-brand {
+    font-family: "Neucha";
+}
+
+#bootstrap-overrides .navbar {
+    z-index: 100000;
+    margin-bottom: -25px;
+}
+
+#bootstrap-overrides .container {
+    position: relative;
+}
+
+/************************************ Footer ***********************************/
+#footer {
+    margin-top: 40px;
+    margin-bottom: 15px;
+}
